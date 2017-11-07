@@ -25,4 +25,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Example page in Heroku
 
-[https://u-rock-paper-scissors.herokuapp.com/#/](https://u-rock-paper-scissors.herokuapp.com/#/)
+[https://u-game-of-drones.herokuapp.com](https://u-game-of-drones.herokuapp.com)
