@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jkevingutierrez/game-of-drones.svg?branch=master)](https://travis-ci.org/jkevingutierrez/game-of-drones)
+
 # Game of Drones
 
 This is a version of Rock Paper Scissors using angular 5, node, express and mongo
